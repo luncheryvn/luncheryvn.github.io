@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Chào mừng đến với Lunchery"
 date:   2014-09-30 23:23:36
 categories: jekyll update
 ---
