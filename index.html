@@ -2,22 +2,33 @@
 layout: default
 ---
 
-<div class="home">
+<div class="post-list">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="post-list__post post">
+      <section class="post__inner">
+        <header class="post__header">
+          <a class="post__meta" href="{{post.url}}">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</a>
+          <h1 class="post__title"><a href="{{post.url}}">{{ post.title }}</a></h1>
+        </header>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+        <article class="post__content">
+          {{ post.content }}
+        </article>
+      </section>
+    </div>
     {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <!-- Pagination links -->
+    <div class="post-list__pagination">
+      {% if paginator.previous_page %}
+        <a href="/page{{ paginator.previous_page }}" class="post-list__pagination-prev">
+        Previous</a>
+      {% endif %}
 
+      {% if paginator.next_page %}
+        <a href="/page{{ paginator.next_page }}" class="post-list__pagination-next">
+        Next</a>
+      {% endif %}
+    </div>
 </div>
