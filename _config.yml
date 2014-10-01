@@ -12,3 +12,12 @@ twitter_username: jekyllrb
 # Build settings
 markdown: kramdown
 paginate: 5
+
+authors:
+  anhnguyen:
+    name: Nguyen Quoc Anh
+    display_name: Anh DH Nguyen
+    image_url: "https://stripe.com/img/about/team/karl.png"
+  nxqd:
+    name: Nguyen Xuan Quang Dung
+    display_name: Dung Nguyen
