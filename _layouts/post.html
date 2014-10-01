@@ -6,8 +6,8 @@ layout: default
 
   <section class="post__inner">
     <header class="post__header">
-      <p class="post__meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-      <h1 class="post__title">{{ page.title }}</h1>
+      <a class="post__meta" href="{{page.url}}">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</a>
+      <h1 class="post__title"><a href="{{page.url}}">{{ page.title }}</a></h1>
     </header>
 
     <article class="post__content">
