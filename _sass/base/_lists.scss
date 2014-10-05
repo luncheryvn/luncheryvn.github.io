@@ -28,3 +28,10 @@ dl {
     margin: 0;
   }
 }
+
+ul.inline {
+  list-style: none;
+  li {
+    display: inline-block;
+  }
+}

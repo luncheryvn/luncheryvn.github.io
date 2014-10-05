@@ -4,7 +4,29 @@
   margin-bottom: 25px
   padding-bottom: 10px
 
-.site-header__list
-  list-style: none
+.site-header__left
+  font-weight: bold
+  font-size: .9em
+  float: left
+
   li
-    display: inline-block
+    margin-right: 10px
+    &:last-child
+      margin-right: 0
+  a
+    color: #666
+    &:hover
+      color: darken(#666, 10)
+
+.site-header__right
+  float: right
+  li
+    margin-right: 10px
+    &:last-child
+      margin-right: 0
+
+  a
+    font-size: 1.2em
+    color: #666
+    &:hover
+      color: darken(#666, 10)
