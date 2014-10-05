@@ -3,6 +3,7 @@ layout: default
 ---
 
 {% assign first_post = site.posts.first %}
+{% assign first_post_author = site.authors[first_post.author] %}
 
 <div class="first-post post">
   <section class="post__top-image">
@@ -14,15 +15,14 @@ layout: default
 
   <div class="first-post__post post">
     <section class="post__inner">
+      <section class="post__author">
+        <img src="{{first_post_author.image_url}}" alt="{{first_post_author.name}}">
+      </section>
+
       <header class="post__header">
         <h1 class="post__title"><a href="{{first_post.url}}">{{ first_post.title }}</a></h1>
         <a class="post__meta" href="{{first_post.url}}">
           {{ first_post.date | date: "%b %-d, %Y" }}
-            {% if first_post.author %} • {{ first_post.author }}
-          {% endif %}
-          {% if first_post.meta %}
-            • {{ first_post.meta }}
-          {% endif %}
         </a>
       </header>
 

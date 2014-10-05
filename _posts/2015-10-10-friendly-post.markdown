@@ -3,6 +3,7 @@ layout: post
 title:  "Friendly post"
 date:   2015-10-10 23:23:36
 categories: food
+author: anhnguyen
 image: "http://b.iamafoodblog.com/iamablog/wp-content/uploads/2014/09/psl-3wa.jpg"
 ---
 

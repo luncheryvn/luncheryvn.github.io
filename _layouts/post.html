@@ -18,9 +18,11 @@ layout: default
     </section>
 
     <header class="post__header">
-      <a class="post__meta" href="{{page.url}}">
-        {{ page.date | date: "%b %-d, %Y" }}{% if page.author %}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</a>
       <h1 class="post__title"><a href="{{page.url}}">{{ page.title }}</a></h1>
+
+      <a class="post__meta" href="{{page.url}}">
+        {{ page.date | date: "%b %-d, %Y" }}
+      </a>
     </header>
 
     <article class="post__content">
