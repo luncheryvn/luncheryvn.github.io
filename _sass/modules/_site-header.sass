@@ -3,8 +3,16 @@
   border-bottom: 1px solid rgba(49,78,95,0.075)
   margin-bottom: 25px
   padding-bottom: 10px
+  position: relative
+
+.site-header__logo
+  width: 60px
+  height: 60px
+  display: block
+  background: url(http://i.imgur.com/MUbzuxs.png) no-repeat
 
 .site-header__left
+  text-align: left
   font-weight: bold
   font-size: .9em
   float: left
@@ -19,14 +27,15 @@
       color: darken(#666, 10)
 
 .site-header__right
+  text-align: right
   float: right
+    font-size: 1.2em
   li
     margin-right: 10px
     &:last-child
       margin-right: 0
 
   a
-    font-size: 1.2em
     color: #666
     &:hover
       color: darken(#666, 10)
