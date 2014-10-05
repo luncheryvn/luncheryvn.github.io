@@ -1,18 +1,22 @@
 .site-header
   +outer-container
+  position: relative
+
   border-bottom: 1px solid rgba(49,78,95,0.075)
   margin-bottom: 25px
   padding-bottom: 10px
-  position: relative
+  height: 65px
 
 .site-header__logo
+  +span-columns(2)
   width: 60px
   height: 60px
   display: block
   background: url(http://i.imgur.com/MUbzuxs.png) no-repeat
 
 .site-header__left
-  text-align: left
+  +span-columns(5)
+  margin-top: 38px
   font-weight: bold
   font-size: .9em
   float: left
@@ -27,9 +31,12 @@
       color: darken(#666, 10)
 
 .site-header__right
+  +span-columns(5)
   text-align: right
+  margin-top: 38px
   float: right
-    font-size: 1.2em
+  font-size: 1.2em
+
   li
     margin-right: 10px
     &:last-child

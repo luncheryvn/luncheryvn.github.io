@@ -42,7 +42,7 @@ layout: default
 
 <div class="post-list">
 
-    {% for post in site.posts %}
+    {% for post in site.posts offset: 1 limit: 12 %}
       <div class="post-list__post">
         <header>
           <a href="{{post.url}}">
