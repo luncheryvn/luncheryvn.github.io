@@ -3,8 +3,12 @@ layout: default
 ---
 {% assign author = site.authors[page.author] %}
 <div class="post">
-  <section class="post__top-image"
-    style="background: url('{{page.image}}')"></section>
+
+  <section class="post__top-image">
+    <div class="post__top-image__inner"
+      style="background: url('{{page.image}}')" >
+    </div>
+   </section>
 
   {{post.image}}
 

@@ -1,17 +1,19 @@
 .post
-  +outer-container
 
 .post__top-image
   position: relative
-  background: url('http://www.marechiaros.com/images/featured/Italian-Food-El-Cajon.jpg')
+  background: #f5f5f5
 
+.post__top-image__inner
+  +outer-container
+  background-position: center center
   background-repeat: no-repeat
-  background-position: center
   background-size: cover
-
   height: 500px
 
+
 .post__inner
+  +outer-container
   position: relative
   background: white
   padding: 1em
