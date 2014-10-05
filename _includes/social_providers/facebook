@@ -1,0 +1,1 @@
+<div class="fb-like" data-send="false" data-layout="{{ site.social_sharing.facebook.layout }}" data-width="{{ site.social_sharing.facebook.width }}" data-show-faces="{{ site.social_sharing.facebook.faces }}" data-font="{{ site.social_sharing.facebook.font }}"></div>

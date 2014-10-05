@@ -6,11 +6,10 @@ layout: default
 
   <section class="post__top-image">
     <div class="post__top-image__inner"
-      style="background: url('{{page.image}}')" >
+      style="background-image: url('{{page.image}}')" >
     </div>
-   </section>
+  </section>
 
-  {{post.image}}
 
   <section class="post__inner">
     <section class="post__author">
@@ -29,4 +28,37 @@ layout: default
       {{ content }}
     </article>
   </section>
+
+  <div class="post__social-sharing">
+    {% include social_sharing %}
+  </div>
+
+</div>
+
+<div class="post-list">
+  {% for post in site.related_posts offset: 1 limit: 4 %}
+  <div class="post-list__post">
+    <header>
+      <a href="{{post.url}}">
+        <img src="{{post.image}}" alt="{{post.title}}">
+      </a>
+      <h6 class="post-list__post__title">
+        <a href="{{post.url}}">{{ post.title }}</a>
+      </h6>
+    </header>
+  </div>
+  {% endfor %}
+
+  <!-- Pagination links -->
+  <div class="post-list__pagination">
+    {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}" class="post-list__pagination-prev">
+      Previous</a>
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="post-list__pagination-next">
+      Next</a>
+    {% endif %}
+  </div>
 </div>
