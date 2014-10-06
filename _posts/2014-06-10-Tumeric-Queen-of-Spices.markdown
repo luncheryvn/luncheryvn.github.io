@@ -7,7 +7,7 @@ image: "http://i.imgur.com/6qqrFBn.jpg"
 author: anhnguyen
 ---
 
-Top 10 Lợi ích của Nghệ, "Nữ Hoàn Gia Vị"
+Top 10 Lợi ích của Nghệ, "Nữ Hoàng Gia Vị"
 
 Nghệ từ lâu đã được sử dụng trong y học Việt Nam, Trung Quốc và Ấn Độ để chữa nhiều bệnh. Nó thường được gọi là "Nữ hoàng gia vị" vì nhiều lý do. Nghệ không chỉ thêm một hương vị tuyệt vời cho các món ăn của bạn, nghiên cứu còn cho thấy lợi ích sức khỏe quan trọng đối với cơ thể và não.
 
