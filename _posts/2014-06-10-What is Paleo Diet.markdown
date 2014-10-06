@@ -51,6 +51,7 @@ Với sự chuyển dịch rất đơn giản, chúng ta không chỉ loại b�
 
 **Thôi nào! Tổ tiên chúng ta sống cuộc sống ngắn, và tàn bạo! Thế thì chẳng đáng để thử Paleo Diet, phải không?**
 
+![](http://i.imgur.com/KSQtobm.jpg)
 Khái niệm Paleo là mới cho hầu hết mọi người và sự mới mẻ này có thể châm ngòi cho nhiều câu hỏi. Chúng ta muốn mọi người không chỉ đọc và giáo dục bản thân về chủ đề này mà còn để thử nghiệm. Kinh nghiệm có lẽ là người thầy tốt nhất và thường xuyên giúp xử lý bất kỳ rắc rối xung quanh theo cách ăn này.
 
 **Giúp hạn chế tiểu đường?**
