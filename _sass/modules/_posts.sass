@@ -17,14 +17,15 @@
   padding-bottom: 20px
 
 .post__inner
-  +outer-container
   position: relative
   background: white
   padding: 1em
-  width: 43%
   margin: 0 auto
 
 .post__content
+  +outer-container
+  width: 43%
+
   line-height: 1.7
   color: #666
   strong
@@ -36,7 +37,9 @@
   font-size: .9rem
   text-align: center
   font-weight: bold
-  a
+
+  color: black
+  &:hover
     color: black
 
 .post__title
@@ -62,4 +65,5 @@
     border-radius: 50%
 
 .post__header
+  +outer-container
   margin-bottom: 20px
