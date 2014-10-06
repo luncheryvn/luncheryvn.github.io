@@ -9,6 +9,8 @@ author: anhnguyen
 
 Phương pháp ăn "Paleo" có hiệu quả! – Ăn uống theo chế độ Paleo và thể thao một cách thông minh và phong cách sống thích hợp giúp bạn giảm mỡ và trở nên khỏe mạnh. Điều đó không khó!
 
+---
+
 **CHẾ ĐỘ ĂN UỐNG PALEO LÀ GÌ?**
 
 Chế độ ăn kiêng Paleo là cách lành mạnh nhất bạn có thể ăn bởi vì nó là phương pháp dinh dưỡng chỉ làm việc với di truyền học của bạn để giúp bạn trở nên thon thả, mạnh mẽ và tràn đầy năng lượng! Nghiên cứu về sinh học, hóa sinh, nhãn khoa, da liễu và nhiều ngành khác chỉ ra rằng chế độ ăn uống hiện đại quá nhiều các loại thực phẩm tinh chế, chất béo và đường, đó là nguồn gốc của các bệnh thoái hóa như béo phì, ung thư, tiểu đường, bệnh tim, Parkinson, bệnh Alzheimer, trầm cảm và vô sinh. - Robb Wolf
