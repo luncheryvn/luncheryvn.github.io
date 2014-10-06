@@ -13,6 +13,8 @@ Nghệ từ lâu đã được sử dụng trong y học Trung Quốc và Ấn �
 
 Nghệ là một thành viên của gia đình gừng, một loại gia vị thúc đẩy gia vị tuyệt vời và giá trị dinh dưỡng cao. Loại thực vật này phát triển trong tự nhiên ở rừng rậm của Nam và Đông Nam Á. Nghệ còn là một phần không thể thiếu để tô điểm thêm màu vàng trong những món ăn của Việt Nam, Ấn Độ, Ba Tư, và các món ăn Thái Lan.
 
+---
+
 **10 LỢI ÍCH SỨC KHỎE CỦA NGHỆ CHO BỮA ĂN**
 
 [**1. Chống viêm một cách tự nhiên**](http://luncheryvn.net)
