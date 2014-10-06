@@ -19,11 +19,11 @@ Nghệ là một thành viên của gia đình gừng, một loại gia vị th�
 
 Viêm mãn tính đóng một vai trò quan trọng trong các bệnh hiện đại như bệnh tim, viêm khớp, ung thư, bệnh Alzheimer, và các rối loạn tiêu hóa. Curcumin là hoạt chất chính của củ nghệ và có đặc tính kháng viêm mạnh mẽ. Nó chống viêm trên cấp độ phân tử và hoạt động tốt (hoặc thậm chí tốt hơn) hầu hết các loại thuốc kháng viêm trên thị trường ... và không có thêm tác dụng phụ.
 
-[***2. Trung hòa các gốc tự do ***](http://luncheryvn.net)
+[***2. Trung hòa các gốc tự do***](http://luncheryvn.net)
 
 Các gốc tự do là những phân tử có hoạt tính cao, có thể đi qua toàn bộ cơ thể của bạn và gây ra thiệt hại nghiêm trọng và lão hóa sớm làn da của bạn. Chúng là những thủ phạm của nhiều bệnh. Curcumin không chỉ là một chất chống viêm mạnh, nhưng là một chất chống oxy hóa rất là tốt. Nó giúp cơ thể trung hòa các gốc tự do có hại và kích thích cơ chế chống oxy hóa cơ thể.
 
-[***3. Cho một bộ não khỏe mạnh ***](http://luncheryvn.net)
+[***3. Cho một bộ não khỏe mạnh***](http://luncheryvn.net)
 
 ![](http://i.imgur.com/EuZZhgq.jpg)
 
@@ -33,27 +33,27 @@ Brain-Derived Neurotopic Factor (BDNF) là một nội tiết tố tăng trưở
 
 Nghệ từ lâu đã được sử dụng để chữa trị các vấn đề tiêu hóa như đầy hơi, ợ nóng, buồn nôn và đau bụng. Do đặc tính kháng viêm mạnh mẽ, nó thậm chí có thể cung cấp cứu trợ cho những người bị bệnh viêm ruột như bệnh Crohn, viêm loét đại tràng và hội chứng ruột kích thích.
 
-[***5. Cải thiện sức khỏe tim ***](http://luncheryvn.net)
+[***5. Cải thiện sức khỏe tim***](http://luncheryvn.net)
 
 ![](http://i.imgur.com/TUi7mfR.jpg)
 
 Bệnh tim mạch ngày nay, bên cạnh ung thư, là một trong những kẻ giết người lớn nhất của hành tinh chúng ta. Có nhiều yếu tố góp phần vào sự phát triển của bệnh tim mạch, một trong số đó là một sự cố của lớp niêm mạc của các mạch máu, hay lớp nội mạc. Lớp niêm mạc của các mạch máu điều hòa huyết áp và đông máu. Một số nghiên cứu cho thấy chất curcumin giúp cải thiện chức năng nội mô và, như đã nói ở trên, làm giảm viêm và các gốc tự do. Những người chịu trách nhiệm cho sự hình thành các mảng bám có thể gây đột quỵ hoặc nhồi máu cơ tim. Củ nghệ có thể làm cholesterol thấp hơn bằng cách tăng khả năng của gan để loại bỏ nhiều cholesterol và các chất độc.
 
-[***6. Chất giảm đau tự nhiên*** ](http://luncheryvn.net)
+[***6. Chất giảm đau tự nhiên***](http://luncheryvn.net)
 
 Củ nghệ đã được sử dụng trong nhiều thế kỷ để chữa bệnh với lợi ích làm giảm đau. Curcumin làm giảm mức độ của 2 loại enzyme gây viêm và rất hiệu quả để giảm bớt sự đau đớn của vết bầm tím, bong gân, căng thẳng, và liên viêm.
 
-[***7. Điều trị viêm khớp ***](http://luncheryvn.net)
+[***7. Điều trị viêm khớp***](http://luncheryvn.net)
 
 ![](http://i.imgur.com/BeTecI4.jpg)
 
 Viêm khớp thực sự là tình trạng viêm khớp xương của bạn. Nhiều bệnh nhân đã phản ứng hiệu quả với bổ sung chất curcumin. Họ thậm chí còn báo cáo rằng chất curcumin có hiệu quả hơn trong việc điều trị các triệu chứng hơn so với bất kỳ loại thuốc chống viêm nào trên thị trường.
 
-***8. Ngăn ngừa và trị ung thư ***](http://luncheryvn.net)
+***8. Ngăn ngừa và trị ung thư***](http://luncheryvn.net)
 
 Không chỉ chất curcumin chống lại việc ung thư hình thành các gốc tự do, nó còn có thể ức chế sự phát triển của các mạch máu mới trong các khối u, làm giảm sự lây lan của bệnh ung thư, và giúp tiêu diệt tế bào ung thư nói chung. Và khi được bổ sung thường xuyên trong chế độ ăn uống của bạn, nó thậm chí có thể giúp ngăn ngừa một số loại ung thư (đặc biệt là bệnh ung thư của hệ thống tiêu hóa) ở nơi đầu tiên.
 
-[***9. Ngăn ngừa bệnh Alzheimer ***](http://luncheryvn.net)
+[***9. Ngăn ngừa bệnh Alzheimer***](http://luncheryvn.net)
 
 Hiện nay vẫn chưa có điều trị cho bệnh Alzheimer. Vì vậy, điều quan trọng nhất là để ngăn chặn nó xuất hiện. Chúng tôi đã nói về đặc tính kháng viêm và chống oxy hóa của củ nghệ. Cả hai đóng một vai trò quan trọng trong sự phát triển của bệnh Alzheimer hoặc mất trí nhớ. Nhưng nó không dừng lại ở đó. Người ta tin rằng chất curcumin có thể giúp cơ thể bạn rõ ràng tích tụ protein hoặc mảng amyloid có liên quan chặt chẽ đến các bệnh thoái hóa thần kinh.
 
