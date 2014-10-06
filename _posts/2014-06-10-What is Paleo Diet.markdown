@@ -20,8 +20,8 @@ Chế độ ăn kiêng Paleo là cách lành mạnh nhất bạn có thể ăn b
 | Trái cây | Thực phẩm từ sữa |
 | Rau quả | Ngũ cốc |
 | Thịt nạc | Thực phẩm đã qua chế biến và đường |
-| Hải sản | Đậu |
-| Đậu phộng | Tinh bột |
+| Hải sản | Cây họ đậu |
+| Các loại hạt | Tinh bột |
 | Chất béo tự nhiên | Rượu |
 
 [**XÂY DỰNG CHẾ ĐỘ ĂN PALEO**](luncheryvn.net)
