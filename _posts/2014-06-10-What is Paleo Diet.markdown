@@ -71,4 +71,5 @@ Tự miễn dịch là một quá trình mà trong đó hệ thống miễn dị
 
 Điều thú vị là tất cả các bệnh dường như không liên quan lại chia sẻ một nguyên nhân phổ biến: thiệt hại cho niêm mạc đường ruột làm cho lượng lớn thức ăn không tiêu hóa được được hấp thụ vào cơ thể. Điều này được gọi là "ruột bị rò rỉ và phản ứng tự miễn dịch".
 
+Bới **Anh Nguyễn**  
 Với tham khảo từ: [Robwolf](http://robbwolf.com/what-is-the-paleo-diet/)
