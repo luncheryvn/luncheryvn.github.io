@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thế nào là phương pháp ăn Paleo?"
+title:  "THẾ NÀO LÀ PHƯƠNG PHÁP ĂN PALEO?"
 date:   2014-10-06 23:23:36
 categories: nutrition
 image: "http://i.imgur.com/BSxwSaE.jpg"
@@ -8,11 +8,11 @@ image: "http://i.imgur.com/BSxwSaE.jpg"
 
 Phương pháp ăn "Paleo" có hiệu quả! – Ăn uống theo chế độ Paleo và thể thao một cách thông minh và phong cách sống thích hợp giúp bạn giảm mỡ và trở nên khỏe mạnh. Điều đó không khó!
 
-**Chế độ ăn Paleo là gì?**
+**CHẾ ĐỘ ĂN UỐNG PALEO LÀ GÌ?**
 
 Chế độ ăn kiêng Paleo là cách lành mạnh nhất bạn có thể ăn bởi vì nó là phương pháp dinh dưỡng chỉ làm việc với di truyền học của bạn để giúp bạn trở nên thon thả, mạnh mẽ và tràn đầy năng lượng! Nghiên cứu về sinh học, hóa sinh, nhãn khoa, da liễu và nhiều ngành khác chỉ ra rằng chế độ ăn uống hiện đại quá nhiều các loại thực phẩm tinh chế, chất béo và đường, đó là nguồn gốc của các bệnh thoái hóa như béo phì, ung thư, tiểu đường, bệnh tim, Parkinson, bệnh Alzheimer, trầm cảm và vô sinh. - Robb Wolf
 
-| **Nên ăn** | **Nên tránh** |
+| **NÊN ĂN** | **NÊN TRÁNH** |
 | --- | --- |
 | Trái cây | Thực phẩm từ sữa |
 | Rau quả | Ngũ cốc |
@@ -21,8 +21,8 @@ Chế độ ăn kiêng Paleo là cách lành mạnh nhất bạn có thể ăn b
 | Đậu phộng | Tinh bột |
 | Chất béo tự nhiên | Rượu |
 
-**Xây dựng chế độ ăn lành mạnh Paleo**
-![](http://i.imgur.com/BSxwSaE.jpg)
+**XÂY DỰNG CHẾ ĐỘ ĂN UỐNG PALEO**
+![](http://i.imgur.com/DrACIxV.jpg)
 
 **Protein trong thịt nạc**
 
@@ -56,12 +56,12 @@ Khái niệm Paleo là mới cho hầu hết mọi người và sự mới mẻ 
 
 Một câu hỏi lớn đặt ra là "Liệu Paleo có thực sự hiệu quả?" Ở đây chúng tôi có một so sánh đối đầu giữa chế độ ăn uống Paleo và chế độ ăn Mediterranean trong kháng thể insulin của bệnh tiểu đường loại 2. Kết quả? Nhóm chế độ ăn uống Paleo đảo ngược các dấu hiệu và triệu chứng kháng insulin, tiểu đường loại 2. Chế độ ăn Mediterranean cho thấy ít có cải tiến. Cần lưu ý rằng chế độ ăn Mediterranean thường được tổ chức bởi chính phủ Hoa Kỳ là "chế độ được khuyến khíc" mặc dù có những lựa chọn thay thế tốt hơn.
 
-**Bệnh tim mạch**
+**Hạn chế bệnh tim mạch**
 
 ![](http://i.imgur.com/MsnS1DR.jpg)
 Theo Trung Tâm Kiểm Soát và Phòng Chống Dịch Tể thế giới, bệnh tim mạch là nguyên nhân số một gây tử vong ở Hoa Kỳ. Tuy nhiên điều thú vị là, tổ tiên của chúng ta và nghiên cứu hiện đại đối với những nhóm thợ săn cho thấy hầu như không có cơn đau tim hoặc đột quỵ trong khi thực hiện chế độc Paleo. Các tham khảo dưới đây sẽ khám phá những sự kiện này để giúp đỡ tốt hơn cho bạn hiểu được những lợi ích sức khỏe tim mạch của một chế độ ăn uống Paleo.
 
-**tự miễn dịch**
+**Tăng cường miễn dịch**
 
 Tự miễn dịch là một quá trình mà trong đó hệ thống miễn dịch của cơ thể chúng ta tấn công "chúng ta". Thông thường, hệ thống miễn dịch bảo vệ chúng ta khỏi bị nhiễm trùng do vi khuẩn, virus và ký sinh trùng. Hệ thống miễn dịch xác định kẻ xâm lược từ ngoài, tấn công nó, và xóa các nhiễm trùng. Một trường hợp tương tự cho tự miễn dịch là các trường hợp phản ứng từ chối sau khi hiến nội tạng. Nếu ai đó đòi hỏi một trái tim mới, thận phổi hoặc gan do bệnh tật hoặc chấn thương, một cơ quan tài trợ có thể là một lựa chọn. Bước đầu tiên trong quá trình này là cố gắng tìm một mô "phù hợp". Tất cả chúng ta có các phân tử trong các mô của chúng ta là hệ thống miễn dịch của chúng ta sử dụng để nhận ra một cách tự động. Nếu một cơ quan hiến tặng không đủ gần với người nhận thì tế bào của hệ thống miễn dịch sẽ tấn công và phá hủy các cơ quan. Trong tự miễn dịch, một quá trình tương tự xảy ra trong đó một mô riêng của cá nhân là một cái gì đó nhầm lẫn như từ ngoài và các cuộc tấn công hệ thống miễn dịch "bị nhầm" mô này. Hình thức phổ biến của tự miễn dịch bao gồm Multiple Sclerosis, viêm khớp dạng thấp, lupus, bạch biến và tên chỉ là một phần rất nhỏ trong các bệnh tự miễn. Các yếu tố tự miễn dịch có khả năng đang diễn ra trong điều kiện hầu như có vẻ không liên quan như tâm thần phân liệt, vô sinh, và các hình thức khác nhau của ung thư.
 
