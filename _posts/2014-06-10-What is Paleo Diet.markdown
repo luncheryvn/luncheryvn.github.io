@@ -58,12 +58,12 @@ Khái niệm Paleo là mới cho hầu hết mọi người và sự mới mẻ 
 
 [**GIẢM THIỂU TIỂU ĐƯỜNG**](http://luncheryvn.net)
 
-Một câu hỏi lớn đặt ra là "Liệu Paleo có thực sự hiệu quả?" Ở đây chúng tôi có một so sánh đối đầu giữa chế độ ăn uống Paleo và chế độ ăn Mediterranean trong kháng thể insulin của bệnh tiểu đường loại 2. Kết quả? Nhóm chế độ ăn uống Paleo đảo ngược các dấu hiệu và triệu chứng kháng insulin, tiểu đường loại 2. Chế độ ăn Mediterranean cho thấy ít có cải tiến. Cần lưu ý rằng chế độ ăn Mediterranean thường được tổ chức bởi chính phủ Hoa Kỳ là "chế độ được khuyến khíc" mặc dù có những lựa chọn thay thế tốt hơn.
+Một câu hỏi lớn đặt ra là "Liệu Paleo có thực sự hiệu quả?" Ở đây chúng tôi có một so sánh đối đầu giữa chế độ ăn uống Paleo và chế độ ăn Mediterranean trong kháng thể insulin của bệnh tiểu đường loại 2. Kết quả? Nhóm chế độ ăn uống Paleo đảo ngược các dấu hiệu và triệu chứng kháng insulin, tiểu đường loại 2. Chế độ ăn Mediterranean cho thấy ít có cải tiến. Cần lưu ý rằng chế độ ăn Mediterranean thường được tổ chức bởi chính phủ Hoa Kỳ là "chế độ được khuyến khích" mặc dù có những lựa chọn thay thế tốt hơn.
 
 [**HẠN CHẾ BỆNH TIM MẠCH**](http://luncheryvn.net)
 
 ![](http://i.imgur.com/MsnS1DR.jpg)
-Theo Trung Tâm Kiểm Soát và Phòng Chống Dịch Tể thế giới, bệnh tim mạch là nguyên nhân số một gây tử vong ở Hoa Kỳ. Tuy nhiên điều thú vị là, tổ tiên của chúng ta và nghiên cứu hiện đại đối với những nhóm thợ săn cho thấy hầu như không có cơn đau tim hoặc đột quỵ trong khi thực hiện chế độc Paleo. Các tham khảo dưới đây sẽ khám phá những sự kiện này để giúp đỡ tốt hơn cho bạn hiểu được những lợi ích sức khỏe tim mạch của một chế độ ăn uống Paleo.
+Theo Trung Tâm Kiểm Soát và Phòng Chống Dịch Tể thế giới, bệnh tim mạch là nguyên nhân số một gây tử vong ở Hoa Kỳ. Tuy nhiên điều thú vị là, tổ tiên của chúng ta và nghiên cứu hiện đại đối với những nhóm thợ săn cho thấy hầu như không có cơn đau tim hoặc đột quỵ trong khi thực hiện chế độ Paleo.
 
 [**TĂNG CƯỜNG MIỄN DỊCH**](http://luncheryvn.net)
 
