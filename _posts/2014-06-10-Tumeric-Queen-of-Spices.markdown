@@ -25,7 +25,7 @@ Các gốc tự do là những phân tử có hoạt tính cao, có thể đi qu
 
 [**3. Cho một bộ não khỏe mạnh**](http://luncheryvn.net)
 
-![](http://i.imgur.com/EuZZhgq.jpg)
+![http://luncheryvn.net](http://i.imgur.com/EuZZhgq.jpg)
 
 Brain-Derived Neurotopic Factor (BDNF) là một nội tiết tố tăng trưởng quan trọng của bộ não của bạn. Nhiều chứng rối loạn não như Alzheimer, trầm cảm và mất trí nhớ có liên quan đến các mức thấp của nội tiết tố này. Curcumin có thể giúp bạn nâng các mức BDNF để cải thiện bệnh não và trí nhớ. Vì vậy, thêm bột nghệ trong bữa ăn hàng ngày thực sự có thể làm cho bạn thông minh hơn.
 
