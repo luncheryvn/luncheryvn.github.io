@@ -4,6 +4,7 @@ title:  "THẾ NÀO LÀ PHƯƠNG PHÁP ĂN PALEO?"
 date:   2014-10-06 23:23:36
 categories: nutrition
 image: "http://i.imgur.com/BSxwSaE.jpg"
+author: anhnguyen
 ---
 
 Phương pháp ăn "Paleo" có hiệu quả! – Ăn uống theo chế độ Paleo và thể thao một cách thông minh và phong cách sống thích hợp giúp bạn giảm mỡ và trở nên khỏe mạnh. Điều đó không khó!
