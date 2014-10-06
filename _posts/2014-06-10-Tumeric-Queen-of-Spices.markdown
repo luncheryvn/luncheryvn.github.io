@@ -9,9 +9,9 @@ author: anhnguyen
 
 Top 10 Lợi ích của Nghệ, "Nữ Hoàn Gia Vị"
 
-Nghệ từ lâu đã được sử dụng trong y học Trung Quốc và Ấn Độ để chữa nhiều bệnh. Nó thường được gọi là "Nữ hoàng gia vị" vì nhiều lý do. Nghệ không chỉ thêm một hương vị tuyệt vời cho các món ăn của bạn, nghiên cứu còn cho thấy lợi ích sức khỏe quan trọng đến với cơ thể và não.
+Nghệ từ lâu đã được sử dụng trong y học Việt Nam, Trung Quốc và Ấn Độ để chữa nhiều bệnh. Nó thường được gọi là "Nữ hoàng gia vị" vì nhiều lý do. Nghệ không chỉ thêm một hương vị tuyệt vời cho các món ăn của bạn, nghiên cứu còn cho thấy lợi ích sức khỏe quan trọng đối với cơ thể và não.
 
-Nghệ là một thành viên của gia đình gừng, một loại gia vị thúc đẩy gia vị tuyệt vời và giá trị dinh dưỡng cao. Loại thực vật này phát triển trong tự nhiên ở rừng rậm của Nam và Đông Nam Á. Nghệ còn là một phần không thể thiếu để tô điểm thêm màu vàng trong những món ăn của Việt Nam, Ấn Độ, Ba Tư, và các món ăn Thái Lan.
+Nghệ là một thành viên của gia đình gừng, một loại gia vị thúc đẩy mùi vị tuyệt vời và giá trị dinh dưỡng cao. Loại thực vật này phát triển trong tự nhiên ở rừng rậm của Nam và Đông Nam Á. Nghệ còn là một phần không thể thiếu để tô điểm thêm màu vàng trong những món ăn của Việt Nam, Ấn Độ, Ba Tư, và các món ăn Thái Lan.
 
 ---
 
@@ -23,13 +23,13 @@ Viêm mãn tính đóng một vai trò quan trọng trong các bệnh hiện đ�
 
 [**2. Trung hòa các gốc tự do**](http://luncheryvn.net)
 
-Các gốc tự do là những phân tử có hoạt tính cao, có thể đi qua toàn bộ cơ thể của bạn và gây ra thiệt hại nghiêm trọng và lão hóa sớm làn da của bạn. Chúng là những thủ phạm của nhiều bệnh. Curcumin không chỉ là một chất chống viêm mạnh, nhưng là một chất chống oxy hóa rất là tốt. Nó giúp cơ thể trung hòa các gốc tự do có hại và kích thích cơ chế chống oxy hóa cơ thể.
+Các gốc tự do là những phân tử có hoạt tính cao, có thể đi qua toàn bộ cơ thể của bạn và gây ra thiệt hại nghiêm trọng và lão hóa sớm làn da của bạn. Chúng là thủ phạm của nhiều bệnh. Curcumin không chỉ là một chất chống viêm mạnh, nhưng còn là một chất chống oxy hóa rất là tốt. Nó giúp cơ thể trung hòa các gốc tự do có hại và kích thích chống oxy hóa cơ thể.
 
 [**3. Cho một bộ não khỏe mạnh**](http://luncheryvn.net)
 
 ![alt text](http://i.imgur.com/EuZZhgq.jpg "http://luncheryvn.net")
 
-Brain-Derived Neurotopic Factor (BDNF) là một nội tiết tố tăng trưởng quan trọng của bộ não của bạn. Nhiều chứng rối loạn não như Alzheimer, trầm cảm và mất trí nhớ có liên quan đến các mức thấp của nội tiết tố này. Curcumin có thể giúp bạn nâng các mức BDNF để cải thiện bệnh não và trí nhớ. Vì vậy, thêm bột nghệ trong bữa ăn hàng ngày thực sự có thể làm cho bạn thông minh hơn.
+Brain-Derived Neurotopic Factor (BDNF) là một nội tiết tố tăng trưởng quan trọng của bộ não của bạn. Nhiều chứng rối loạn não như Alzheimer, trầm cảm và mất trí nhớ có liên quan đến việc hạn chế lượng nội tiết tố này. Curcumin có thể giúp bạn nâng các mức BDNF để cải thiện bệnh não và trí nhớ. Vì vậy, thêm bột nghệ trong bữa ăn hàng ngày thực sự có thể làm cho bạn thông minh hơn.
 
 [**4. Điều trị rối loạn tiêu hóa hiệu quả**](http://luncheryvn.net)
 
@@ -39,7 +39,7 @@ Nghệ từ lâu đã được sử dụng để chữa trị các vấn đề t
 
 ![alt text](http://i.imgur.com/TUi7mfR.jpg "luncheryvn.net")
 
-Bệnh tim mạch ngày nay, bên cạnh ung thư, là một trong những kẻ giết người lớn nhất của hành tinh chúng ta. Có nhiều yếu tố góp phần vào sự phát triển của bệnh tim mạch, một trong số đó là một sự cố của lớp niêm mạc của các mạch máu, hay lớp nội mạc. Lớp niêm mạc của các mạch máu điều hòa huyết áp và đông máu. Một số nghiên cứu cho thấy chất curcumin giúp cải thiện chức năng nội mô và, như đã nói ở trên, làm giảm viêm và các gốc tự do. Những người chịu trách nhiệm cho sự hình thành các mảng bám có thể gây đột quỵ hoặc nhồi máu cơ tim. Củ nghệ có thể làm cholesterol thấp hơn bằng cách tăng khả năng của gan để loại bỏ nhiều cholesterol và các chất độc.
+Bệnh tim mạch ngày nay, bên cạnh ung thư, là một trong những kẻ giết người lớn nhất của hành tinh chúng ta. Có nhiều yếu tố góp phần vào sự phát triển của bệnh tim mạch, một trong số đó là sự cố của lớp niêm mạc của các mạch máu, hay lớp nội mạc. Lớp niêm mạc của các mạch máu điều hòa huyết áp và đông máu. Một số nghiên cứu cho thấy chất curcumin giúp cải thiện chức năng nội mô và, như đã nói ở trên, làm giảm viêm và các gốc tự do. Chúng chịu trách nhiệm cho sự hình thành các mảng bám có thể gây đột quỵ hoặc nhồi máu cơ tim. Củ nghệ có thể làm cholesterol thấp hơn bằng cách tăng khả năng của gan để loại bỏ nhiều cholesterol và các chất độc.
 
 [**6. Chất giảm đau tự nhiên**](http://luncheryvn.net)
 
@@ -49,7 +49,7 @@ Củ nghệ đã được sử dụng trong nhiều thế kỷ để chữa bệ
 
 ![alt text](http://i.imgur.com/BeTecI4.jpg "luncheryvn.net")
 
-Viêm khớp thực sự là tình trạng viêm khớp xương của bạn. Nhiều bệnh nhân đã phản ứng hiệu quả với bổ sung chất curcumin. Họ thậm chí còn báo cáo rằng chất curcumin có hiệu quả hơn trong việc điều trị các triệu chứng hơn so với bất kỳ loại thuốc chống viêm nào trên thị trường.
+Viêm khớp cụ thể là tình trạng viêm khớp xương của bạn. Nhiều bệnh nhân đã phản ứng hiệu quả với bổ sung chất curcumin. Họ thậm chí còn báo cáo rằng chất curcumin có hiệu quả hơn trong việc điều trị các triệu chứng so với bất kỳ loại thuốc chống viêm nào trên thị trường.
 
 [**8. Ngăn ngừa và trị ung thư**](http://luncheryvn.net)
 
@@ -57,7 +57,7 @@ Không chỉ chất curcumin chống lại việc ung thư hình thành các g�
 
 [**9. Ngăn ngừa bệnh Alzheimer**](http://luncheryvn.net)
 
-Hiện nay vẫn chưa có điều trị cho bệnh Alzheimer. Vì vậy, điều quan trọng nhất là để ngăn chặn nó xuất hiện. Chúng tôi đã nói về đặc tính kháng viêm và chống oxy hóa của củ nghệ. Cả hai đóng một vai trò quan trọng trong sự phát triển của bệnh Alzheimer hoặc mất trí nhớ. Nhưng nó không dừng lại ở đó. Người ta tin rằng chất curcumin có thể giúp cơ thể bạn rõ ràng tích tụ protein hoặc mảng amyloid có liên quan chặt chẽ đến các bệnh thoái hóa thần kinh.
+Hiện nay vẫn chưa có điều trị cho bệnh Alzheimer. Vì vậy, điều quan trọng nhất là để ngăn chặn nó xuất hiện. Chúng ta đã nói về đặc tính kháng viêm và chống oxy hóa của củ nghệ. Cả hai đóng một vai trò quan trọng trong sự phát triển của bệnh Alzheimer hoặc mất trí nhớ. Nhưng nó không dừng lại ở đó. Người ta tin rằng chất curcumin có thể giúp cơ thể bạn tích tụ protein hoặc mảng amyloid có liên quan chặt chẽ đến các bệnh thoái hóa thần kinh.
 
 [**10. Kéo dài tuổi thọ**](http://luncheryvn.net)
 
