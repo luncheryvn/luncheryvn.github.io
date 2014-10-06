@@ -65,5 +65,6 @@ Nhờ chất chống oxy hóa mạnh mẽ của nghệ và đặc tính kháng v
 
 Như vậy bạn đã có thể thấy vì sao nghệ được gọi là "Nữ hoàng gia vị" vì một số lý do chính đáng. Và đó là chỉ là phần đỉnh của tảng băng trôi. Ngoài ra nghệ cũng được biết đến với đặc tính khử trùng và kháng khuẩn của nó, và các nghiên cứu gần đây cho thấy kết quả khả quan trong việc làm chậm lại sự tiến triển của bệnh đa xơ cứng.
 
-Bởi Anh DH Nguyễn
+Bởi **Anh DH Nguyễn**  
+
 Với tham khảo từ [Amy Goodrich](http://www.wordofhealings.com/2014/04/top-10-health-benefits-of-turmeric.html)
