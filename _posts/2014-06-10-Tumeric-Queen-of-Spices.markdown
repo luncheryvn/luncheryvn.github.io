@@ -3,7 +3,7 @@ layout: post
 title:  "Top 10 lợi ích của nghệ trong bữa ăn"
 date:   2014-10-06
 categories: nutrition
-image: "http://i.imgur.com/6qqrFBn.jpg"
+image: "http://i.imgur.com/YOkE5t2.jpg"
 author: anhnguyen
 ---
 
@@ -27,7 +27,7 @@ Các gốc tự do là những phân tử có hoạt tính cao, có thể đi qu
 
 [**3. Cho một bộ não khỏe mạnh**](http://luncheryvn.net)
 
-![alt text](http://i.imgur.com/EuZZhgq.jpg "http://luncheryvn.net")
+![alt text](http://i.imgur.com/3Ngbblu.jpg "http://luncheryvn.net")
 
 Brain-Derived Neurotopic Factor (BDNF) là một nội tiết tố tăng trưởng quan trọng của bộ não của bạn. Nhiều chứng rối loạn não như Alzheimer, trầm cảm và mất trí nhớ có liên quan đến việc hạn chế lượng nội tiết tố này. Curcumin có thể giúp bạn nâng các mức BDNF để cải thiện bệnh não và trí nhớ. Vì vậy, thêm bột nghệ trong bữa ăn hàng ngày thực sự có thể làm cho bạn thông minh hơn.
 
@@ -37,7 +37,7 @@ Nghệ từ lâu đã được sử dụng để chữa trị các vấn đề t
 
 [**5. Cải thiện sức khỏe tim**](http://luncheryvn.net)
 
-![alt text](http://i.imgur.com/TUi7mfR.jpg "luncheryvn.net")
+![alt text](http://i.imgur.com/vXh8HKw.jpg "luncheryvn.net")
 
 Bệnh tim mạch ngày nay, bên cạnh ung thư, là một trong những kẻ giết người lớn nhất của hành tinh chúng ta. Có nhiều yếu tố góp phần vào sự phát triển của bệnh tim mạch, một trong số đó là sự cố của lớp niêm mạc của các mạch máu, hay lớp nội mạc. Lớp niêm mạc của các mạch máu điều hòa huyết áp và đông máu. Một số nghiên cứu cho thấy chất curcumin giúp cải thiện chức năng nội mô và, như đã nói ở trên, làm giảm viêm và các gốc tự do. Chúng chịu trách nhiệm cho sự hình thành các mảng bám có thể gây đột quỵ hoặc nhồi máu cơ tim. Củ nghệ có thể làm cholesterol thấp hơn bằng cách tăng khả năng của gan để loại bỏ nhiều cholesterol và các chất độc.
 
@@ -47,7 +47,7 @@ Củ nghệ đã được sử dụng trong nhiều thế kỷ để chữa bệ
 
 [**7. Điều trị viêm khớp**](http://luncheryvn.net)
 
-![alt text](http://i.imgur.com/BeTecI4.jpg "luncheryvn.net")
+![alt text](http://i.imgur.com/UZakA0I.jpg "luncheryvn.net")
 
 Viêm khớp cụ thể là tình trạng viêm khớp xương của bạn. Nhiều bệnh nhân đã phản ứng hiệu quả với bổ sung chất curcumin. Họ thậm chí còn báo cáo rằng chất curcumin có hiệu quả hơn trong việc điều trị các triệu chứng so với bất kỳ loại thuốc chống viêm nào trên thị trường.
 
@@ -61,7 +61,7 @@ Hiện nay vẫn chưa có điều trị cho bệnh Alzheimer. Vì vậy, điề
 
 [**10. Kéo dài tuổi thọ**](http://luncheryvn.net)
 
-![alt text](http://i.imgur.com/9reiQTa.jpg "luncheryvn.net")
+![alt text](http://i.imgur.com/i3lj0N8.jpg "luncheryvn.net")
 
 Nhờ chất chống oxy hóa mạnh mẽ của nghệ và đặc tính kháng viêm giúp chúng ta ngăn ngừa ung thư, bệnh Alzheimer, bệnh tim, và trong nhiều trường hợp, nó cũng có một ảnh hưởng lớn đến tuổi thọ của chúng ta.
 
