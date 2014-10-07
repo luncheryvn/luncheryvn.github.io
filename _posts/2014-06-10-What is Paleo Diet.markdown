@@ -3,7 +3,7 @@ layout: post
 title:  "THẾ NÀO LÀ PHƯƠNG PHÁP ĂN PALEO?"
 date:   2014-10-06 23:23:36
 categories: nutrition
-image: "http://i.imgur.com/BSxwSaE.jpg"
+image: "http://i.imgur.com/gAzEfNT.jpg"
 author: anhnguyen
 ---
 
@@ -25,7 +25,7 @@ Chế độ ăn kiêng Paleo là cách lành mạnh nhất bạn có thể ăn b
 | Chất béo tự nhiên | Rượu |
 
 [**XÂY DỰNG CHẾ ĐỘ ĂN PALEO**](http://luncheryvn.net)
-![](http://i.imgur.com/DrACIxV.jpg)
+![](http://i.imgur.com/4xE7tM3.jpg)
 
 [**PROTEIN TỪ THỊT NẠC**](http://luncheryvn.net)
 
@@ -45,7 +45,7 @@ Một trong những sai lệch lớn nhất hiện nay ra khỏi chế độ ăn
 
 [**LỢI ÍCH SỨC KHỎE CỦA PALEO**](http://luncheryvn.net)
 
-![](http://i.imgur.com/yI9QXMA.png)
+![](http://i.imgur.com/52j5VZg.jpg)
 
 Trên thực tế, đối với hầu hết mọi người, chế độ ăn uống Paleo mang lại kết quả tốt nhất và là tất cả chúng ta cần. Cải thiện mỡ máu, giảm cân và giảm đau trong quá trình tự động miễn dịch là những bằng chứng. Tuy nhiên nhiều người không hài long suông sau bất kỳ đề xuất nào, có thể là dinh dưỡng hoặc yếu tố thể dục liên quan. Một số người muốn biết lý do mà họ phải làm một cái gì đó. May mắn thay, chế độ ăn uống Paleo đã không chỉ đứng trước thử thách của thời gian, nhưng cũng đã vượt sự khắc nghiệt của giám sát khoa học.
 
@@ -53,7 +53,7 @@ Với sự chuyển dịch rất đơn giản, chúng ta không chỉ loại b�
 
 [**THÔI NÀO! ĂN KIỂU PALEO ĐÃ TỪ THỜI TIỀN SỬ RỒI, BÂY GIỜ CHƯA HẴN ĐÃ HỢP, PHẢI KHÔNG?**](http://luncheryvn.net)
 
-![](http://i.imgur.com/KSQtobm.jpg)
+![](http://i.imgur.com/oKTthI2.jpg)
 Khái niệm Paleo là mới cho hầu hết mọi người và sự mới mẻ này có thể châm ngòi cho nhiều câu hỏi. Chúng ta muốn mọi người không chỉ đọc và giáo dục bản thân về chủ đề này mà còn để thử nghiệm. Kinh nghiệm có lẽ là người thầy tốt nhất và thường xuyên giúp xử lý bất kỳ rắc rối xung quanh theo cách ăn này.
 
 [**GIẢM THIỂU TIỂU ĐƯỜNG**](http://luncheryvn.net)
@@ -62,7 +62,7 @@ Một câu hỏi lớn đặt ra là "Liệu Paleo có thực sự hiệu quả?
 
 [**HẠN CHẾ BỆNH TIM MẠCH**](http://luncheryvn.net)
 
-![](http://i.imgur.com/MsnS1DR.jpg)
+![](http://i.imgur.com/tz6l8CB.jpg)
 Theo Trung Tâm Kiểm Soát và Phòng Chống Dịch Tể thế giới, bệnh tim mạch là nguyên nhân số một gây tử vong ở Hoa Kỳ. Tuy nhiên điều thú vị là, tổ tiên của chúng ta và nghiên cứu hiện đại đối với những nhóm thợ săn cho thấy hầu như không có cơn đau tim hoặc đột quỵ trong khi thực hiện chế độ Paleo.
 
 [**TĂNG CƯỜNG MIỄN DỊCH**](http://luncheryvn.net)
