@@ -1,8 +1,8 @@
 {% if site.social_sharing.provider and page.sharing != false %}
 
   {% case site.social_sharing.provider %}
-    {% when "like" %}
-      {% include social_providers/facebook %}
+    {% when "enabled" %}
+      {% include social_providers/facebook_like %}
   {% endcase%}
 
 {% endif %}

@@ -24,7 +24,7 @@ authors:
 
 # Social
 social_sharing:
-  provider: like
+  provider: enabled
   facebook:
     appid: 591309840991390
     layout: button_count
