@@ -18,8 +18,10 @@
       color: darken(#333, 10)
 
 .post-list__post-image
-  &:hover
-    +transform(1.1)
+  img
+    +transition(transform ease-in-out .3s)
+    &:hover
+      +transform(scale(1.1))
 
 .post-list__pagination-prev
   float: left
