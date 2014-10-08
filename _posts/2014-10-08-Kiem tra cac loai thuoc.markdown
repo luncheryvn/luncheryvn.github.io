@@ -33,3 +33,7 @@ Các loại thuốc khác cũng có thể gây ra vấn đề:
 - Thuốc động kinh có thể gây tăng cân (ví dụ như Carbamazepine và Valproate). 
 - Thuốc kháng chống dị ứng được gọi là histamin có thể gây tăng cân, đặc biệt là ở liều cao. Cortisone thậm chí còn tồi tệ hơn (xem ở trên). 
 - Thuốc kháng sinh có thể có thể dẫn đến tăng cân tạm thời vì làm ảnh hưởng đến hệ vi sinh vật đường ruột và tăng lượng năng lượng chúng ta hấp thụ từ thức ăn. Điều này vẫn còn mang tính giả thuyết nhưng cũng là một lý do không nên sử dụng thuốc kháng sinh, trừ khi bạn thực sự cần.
+
+Bới **Anh DH Nguyễn**
+
+Với tham khảo từ [Dietdoctor](http://www.dietdoctor.com/how-to-lose-weight)
