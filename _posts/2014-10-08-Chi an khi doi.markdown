@@ -2,7 +2,7 @@
 layout: post
 title:  "Mẹo giảm cân 2 - Chỉ ăn khi thực sự đói"
 date:   2014-10-08
-categories: 
+categories: nutrition
 image: "http://i.imgur.com/DOmRBhC.jpg"
 author: anhnguyen
 ---
