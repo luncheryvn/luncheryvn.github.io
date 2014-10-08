@@ -19,7 +19,7 @@ Năm phần trái cây mỗi ngày tương đương với lượng đường tro
 
 **Đường từ trái cây có thể ngăn quá trình đốt cháy chất béo** . Điều này có thể làm tăng cảm giác đói và làm chậm quá trình giảm cân của bạn. Để có kết quả tốt nhất, bạn nên tránh ăn quả - hoặc chỉ lấy đó làm phần thưởng lâu lâu một lần.
 
-**Mẹo giảm cân**** 7. Đàn ông: Tránh uống bia **
+**Mẹo giảm cân 7. Đàn ông: Tránh uống bia**
 
 ![](http://i.imgur.com/YTJRSIC.jpg)
 
