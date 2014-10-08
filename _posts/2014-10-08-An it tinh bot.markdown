@@ -7,7 +7,7 @@ image: "http://i.imgur.com/UpBI7RR.jpg"
 author: anhnguyen
 ---
 
-**Mẹo giảm cân 1. Chọn một chế độ ăn uống ít tinh bột (low-carb) **
+**Mẹo giảm cân 1. Chọn một chế độ ăn uống ít tinh bột (low-carb)**
 
 Nếu bạn muốn giảm cân, bạn nên bắt đầu bằng cách tránh đường và tinh bột (như bánh mì). Đây là một ý tưởng đã xưa: trong vòng hơn 150 năm đã có vô số các chế độ ăn uống giảm cân dựa trên việc ăn ít tinh bột hơn. Và 17 nghiên cứu khoa học hiện đại đã chứng minh rằng, một **lượng tinh bột ít là cách hiệu quả nhất để giảm cân.**
 
