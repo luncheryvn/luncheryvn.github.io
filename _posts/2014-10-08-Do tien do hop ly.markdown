@@ -53,3 +53,7 @@ Những dấu hiệu này hầu như được cải thiện trên một chế đ
 
 - Sử dụng bất kỳ sợi dây nào. Quấn dây quanh eo của bạn và cắt phần dây thừa vào ngày đầu tiên. Sợi dây này có thể được sử dụng lại một cách kỳ diệu và bạn sẽ cảm thấy nó dài hơn mỗi tuần bạn quấn nó quanh eo của mình. 
 - So sánh độ vừa vặn đối với một cặp quần bò cũ cũng là một lựa chọn tốt.
+
+Bới **Anh DH Nguyễn**
+
+Với tham khảo từ [Dietdoctor](http://www.dietdoctor.com/how-to-lose-weight)
