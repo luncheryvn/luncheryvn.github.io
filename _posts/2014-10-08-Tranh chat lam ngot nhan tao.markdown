@@ -22,3 +22,7 @@ Hơn nữa, các chất làm ngọt nhân tạo có thể duy trì sự nghiện
 Bằng cách này, Stevia được tiếp thị trên thị trường như là một thay thế tự nhiên hơn cho chất làm ngọt nhân tạo. Đó chẳng qua là tiếp thị. Không có gì tự nhiên về một loại bột trắng siêu ngọt Stevia được xử lý như họ nói cả.
 
 Nếu bạn đang gặp khó khăn trong việc giảm cân, tôi cho rằng bạn nên hoàn toàn tránh chất ngọt. một cách tự nhiên, bạn sẽ bắt đầu thưởng thức vị ngọt tự nhiên của thực phẩm tự nhiên, khi mà bạn đã không còn quen với vị ngọt nhân tạo áp đảo của đồ ăn vặt và "nước ngọt danh cho người ăn kiêng".
+
+Bới **Anh DH Nguyễn**
+
+Với tham khảo từ [Dietdoctor](http://www.dietdoctor.com/how-to-lose-weight)
