@@ -27,7 +27,7 @@ Càng tiến gần hơn đến đến trọng lượng lý tưởng thì sẽ c�
 
 ![](http://i.imgur.com/NajOvZ0.jpg)
 
-Bạn đang sắp kết thúc giai đoạn "tự bỏ đói tạm thời"? Hãy tập trung vào chu vi vòng eo của bạn và các dấu hiệu sức khỏe (xem lời khuyên # 4) lúc đầu vì đôi khi phải mất vài tuần trước khi sự giảm cân trở nên rõ ràng.
+Bạn đang sắp kết thúc giai đoạn "nhịn ăn tạm thời"? Hãy tập trung vào chu vi vòng eo của bạn và các dấu hiệu sức khỏe (xem lời khuyên # 4) lúc đầu vì đôi khi phải mất vài tuần trước khi sự giảm cân trở nên rõ ràng.
 
 **Quá trình giảm cân bị trì hoãn**
 
