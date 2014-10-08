@@ -1,6 +1,17 @@
+---
+layout: post
+title:  "Mẹo giảm cân 9. Kiểm tra các loại thuốc bạn dùng"
+date:   2014-10-08
+categories: nutrition
+image: "http://i.imgur.com/pLNGmSX.jpg"
+author: anhnguyen
+---
+
 **Mẹo giảm cân 9. Kiểm tra các loại thuốc bạn dùng**
 
 Nhiều loại thuốc được kê theo toa cho bạn có thể làm trì trệ quá trình giảm cân. Về mọi thay đổi trong điều trị, hãy thảo luận với bác sĩ của bạn. Dưới đây là 3 điều tồi tệ nhất:
+
+![](http://i.imgur.com/oQa7nOM.jpg)
 
 - Tiêm insulin, đặc biệt là ở liều cao, có thể là trở ngại tồi tệ nhất việc giảm cân. Có ba cách để làm giảm nhu cầu cần insulin của bạn: 
 
@@ -10,6 +21,8 @@ Nhiều loại thuốc được kê theo toa cho bạn có thể làm trì trệ
 
 - Các loại thuốc trị tiểu đường khác. Insulin dạng viên (ví dụ như sulphonylureas) thường dẫn đến tăng cân. Chúng bao gồm: Minodiab, Euglucon, Daonil, và Glibenclamide. Viên nén như Avandia, Actos, Starlix và NovoNorm cũng làm tăng cân. Nhưng Metformin thì không. Các loại thuốc mới hơn là Victoza và Byetta (tiêm) thường dẫn đến giảm cân, nhưng tác dụng phụ lâu dài có thể vẫn chưa được biết. 
 - Cortisone, một loại thuốc uống, cũng là một nguyên nhân phổ biến (ví dụ như Prednisolone). Cortisone thường làm tăng cân trong thời gian dài, đặc biệt là ở liều cao (ví dụ như hơn 5 mg Prednisolone mỗi ngày). Thật không may thay cortisone lại là một loại thuốc cần thiết cho những người được chỉ định, nhưng liều dùng nên được điều chỉnh thường xuyên để cân bằng hậu quả và lợi ích. Ống sịt mũi Asthma và những dạng cortisone, như các loại kem hoặc thuốc xịt mũi, hầu như không ảnh hưởng đến trọng lượng. 
+
+![](http://i.imgur.com/TAKQjOo.jpg)
 
 Các loại thuốc khác cũng có thể gây ra vấn đề:
 
