@@ -2,7 +2,7 @@
 layout: post
 title:  "Mẹo 6 và 7 - Tránh ăn nhiều trái cây và uống nhiều bia"
 date:   2014-10-08
-categories: 
+categories: nutrition
 image: "http://i.imgur.com/T9SkVv3.jpg"
 author: anhnguyen
 ---
