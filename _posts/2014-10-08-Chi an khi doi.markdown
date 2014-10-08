@@ -15,13 +15,13 @@ author: anhnguyen
 
 Tránh cả tinh bột lẫn và chất béo trong khi đói, hậu quả sẽ là cảm giác thèm ăn và mệt mỏi. Sớm hay muộn người ta cũng không thể chịu đựng được và bỏ cuộc. Giải pháp là ăn chất béo tự nhiên cho đến khi bạn cảm thấy hài lòng. Ví dụ:
 
-- bơ 
+- Bơ 
 - Kem béo 
-- dầu ô liu 
+- Dầu ô liu 
 - Thịt (bao gồm cả chất béo) 
-- cá béo 
+- Cá béo 
 - Thịt hun khói
-- trứng 
+- Trứng 
 - Dầu dừa, vv 
 
 ![](http://i.imgur.com/vzhWhVd.jpg)
