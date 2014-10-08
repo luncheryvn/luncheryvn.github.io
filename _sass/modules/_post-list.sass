@@ -6,10 +6,12 @@
   margin-bottom: 40px
   &:last-child
     margin-bottom: 0px
+  &:nth-child(4n)
+    margin-right: 0
 
 .post-list__post__title
   font-size: .8em
-  margin-top: 5px
+  margin-top: 15px
   text-transform: uppercase
 
   a
@@ -18,10 +20,13 @@
       color: darken(#333, 10)
 
 .post-list__post-image
-  img
-    +transition(transform ease-in-out .3s)
-    &:hover
-      +transform(scale(1.1))
+  display: block
+  background-size: cover
+  height: 150px
+
+  +transition(transform ease-in-out .3s)
+  &:hover
+    +transform(scale(1.1))
 
 .post-list__pagination-prev
   float: left
