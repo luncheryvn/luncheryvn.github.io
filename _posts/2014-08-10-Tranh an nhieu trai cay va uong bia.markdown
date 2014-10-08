@@ -32,3 +32,7 @@ Dưới đây là lựa chọn tốt hơn nếu dùng thức uống có cồn ch
 - Spirit thuần như whisky, cognac, vodka (tránh cocktail ngọt – dùng vodka, soda, chanh thay thế) 
 
 Những thức uống này hầu như không chứa bất kỳ lượng đường / carbohydrate nào, vì vậy chúng tốt hơn so với bia. Tuy nhiên, một lượng lớn rượu có thể làm chậm giảm cân một chút, vì vậy điều độ vẫn là tốt nhất.
+
+Bới **Anh DH Nguyễn**
+
+Với tham khảo từ [Dietdoctor](http://www.dietdoctor.com/how-to-lose-weight)
