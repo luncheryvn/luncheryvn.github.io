@@ -48,3 +48,7 @@ Nếu bạn giảm một ít cân mỗi tháng, cuối cùng bạn sẽ loại b
 **Làm thế nào để giảm cân nhanh hơn**
 
 Tiếp tục đọc những lời khuyên!
+
+Bới **Anh DH Nguyễn**
+
+Với tham khảo từ [Dietdoctor](http://www.dietdoctor.com/how-to-lose-weight)
