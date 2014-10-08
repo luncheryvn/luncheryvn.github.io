@@ -29,3 +29,7 @@ Ba công ty này không phải là duy nhất. Hiện có hàng ngàn các công
 - Tránh các sản phẩm với dòng chữ "net carbs". Đó là thường chỉ là một cách để đánh lừa bạn. 
 
 Tập trung vào ăn thực phẩm chất lượng tốt, chí ít là phải chế biến thực phẩm tự nhiên. Lý tưởng nhất là bạn nên mua thực phẩm thậm chí không có một danh sách các thành phần nào cả (hoặc nó phải là rất ngắn).
+
+Bới **Anh DH Nguyễn**
+
+Với tham khảo từ [Dietdoctor](http://www.dietdoctor.com/how-to-lose-weight)
