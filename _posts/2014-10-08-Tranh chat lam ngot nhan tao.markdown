@@ -1,8 +1,19 @@
+---
+layout: post
+title:  "Mẹo giảm cân 8. Tránh chất làm ngọt nhân tạo"
+date:   2014-10-08
+categories: nutrition
+image: "http://i.imgur.com/rCcfqsp.jpg"
+author: anhnguyen
+---
+
 **Mẹo giảm cân 8. Tránh chất làm ngọt nhân tạo**
 
 Nhiều người thay thế đường bằng chất làm ngọt nhân tạo, tin rằng điều này sẽ làm giảm lượng calo hấp thụ và giúp giảm cân. Nghe không phải không có lý. Một số nghiên cứu, tuy nhiên, cho thấy chất ngọt nhân tạo không có tác dụng gì khác đường.
 
 Thay vào đó, theo nghiên cứu khoa học, chất ngọt nhân tạo có thể làm **tăng cảm giác ngon miệng và duy trì cảm giác thèm ăn đồ ngọt** .
+
+![](http://i.imgur.com/ojjs9XI.jpg)
 
 Điều này có thể là do cơ thể tăng lượng insulin tiết ra, dự đoán rằng đường sẽ xuất hiện trong máu. Mà nếu điều đó không xảy ra, sẽ làm giảm lượng đường trong máu và tăng đói. Cho dù chuỗi sự kiện này thường xuyên diễn ra có phần không rõ ràng. Có gì đó kỳ lạ đã xảy ra khi tôi kiểm tra Pepsi Max, và có những nghiên cứu được thiết kế cho thấy lượng insulin tăng lên khi sử dụng các chất làm ngọt nhân tạo.
 
