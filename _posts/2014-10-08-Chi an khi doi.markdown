@@ -33,3 +33,7 @@ Bạn vẫn sợ chất béo bão hòa? Không. Nỗi lo sợ chất béo bão h
 Ăn khi đói cũng hàm ý một cái gì đó khác: **Nếu bạn không đói có thể bạn không cần phải ăn gì** . Khi vào một chế độ ăn uống LCHF (Low Carb, High Fat – Ít tinh bột, nhiều chất béo) bạn có thể tin tưởng vào cảm giác đói no tự nhiên một lần nữa. Cảm thấy tự do để ăn một số lần mỗi ngày tốt nhất cho bạn.
 
 Một số người ăn ít nhất ba lần một ngày và đôi khi ăn nhẹ ở giữa (lưu ý rằng thường xuyên ăn vặt có thể có nghĩa là bạn sẽ được hưởng lợi từ việc thêm chất béo vào bữa ăn của bạn, để tăng cảm giác no). Một số người chỉ ăn một hoặc hai lần một ngày và không ăn nữa. Bất cứ điều gì bạn thấy hiệu quả. Chỉ cần ăn khi đói.
+
+Bới **Anh DH Nguyễn**
+
+Với tham khảo từ [Dietdoctor](http://www.dietdoctor.com/how-to-lose-weight)
