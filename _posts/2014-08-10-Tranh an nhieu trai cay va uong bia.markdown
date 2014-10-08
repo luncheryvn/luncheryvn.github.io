@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meo 6 va 7 - Tranh an nhieu trai cay va uong nhieu bia"
+title:  "Mẹo 6 và 7 - Tránh ăn nhiều trái cây và uống nhiều bia"
 date:   2014-10-08
 categories: 
 image: "http://i.imgur.com/T9SkVv3.jpg"
