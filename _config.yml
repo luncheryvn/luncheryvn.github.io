@@ -12,15 +12,8 @@ twitter_username: jekyllrb
 markdown: kramdown
 paginate: 5
 
-authors:
-  anhnguyen:
-    name: Nguyen Quoc Anh
-    display_name: Anh DH Nguyen
-    image_url: "/assets/anhnguyen.jpg"
-  nxqd:
-    name: Nguyen Xuan Quang Dung
-    display_name: Dung Nguyen
-    image_url: "/assets/nxqd.jpg"
+# Google analytics
+google_analytics: UA-55589398-1
 
 # Social
 social_sharing:
@@ -30,3 +23,13 @@ social_sharing:
     layout: button_count
     faces: false
     width: 90
+
+authors:
+  anhnguyen:
+    name: Nguyen Quoc Anh
+    display_name: Anh DH Nguyen
+    image_url: "/assets/anhnguyen.jpg"
+  nxqd:
+    name: Nguyen Xuan Quang Dung
+    display_name: Dung Nguyen
+    image_url: "/assets/nxqd.jpg"
