@@ -1,0 +1,25 @@
+---
+layout: page
+page_type: about
+---
+<h2>Công ty LuncheryVN</h2>
+<p>
+Đã là một nhân viên công sở, hẳn ai cũng đã từng đi ra ngoài công ty tìm chỗ ăn trưa, và lo lắng về sự an toàn cũng như nhàm chán của thức ăn. Với mong muốn khắc phục sự bất tiện đó, Lunchery ra đời với mong muốn mang lại niềm vui, chất lượng và sự tiện lợi cho bữa ăn của người đi làm. Lunchery có thể được liên lạc qua: LuncheryVN@gmail.com nếu bạn có bất kỳ thắc mắc gì.
+</p>
+
+<h2>Nhiệm vụ</h2>
+<p>
+Đã là một nhân viên công sở, hẳn ai cũng đã từng đi ra ngoài công ty tìm chỗ ăn trưa, và lo lắng về sự an toàn cũng như nhàm chán của thức ăn. Với mong muốn khắc phục sự bất tiện đó, Lunchery ra đời với mong muốn mang lại niềm vui, chất lượng và sự tiện lợi cho bữa ăn của người đi làm. Lunchery có thể được liên lạc qua: LuncheryVN@gmail.com nếu bạn có bất kỳ thắc mắc gì.
+</p>
+
+<h2>Đội ngũ</h2>
+<ul class='inline page--about__team-members'>
+  {% for author in site.authors %}
+  <li class='page--about__team-member'>
+    <img src="{{author[1].image_url}}" alt="{{author[1].name}}">
+    <h6 class='page--about__team-title'>{{author[1].title}}</h6>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Liên hệ</h2>

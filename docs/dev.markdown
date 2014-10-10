@@ -1,17 +1,11 @@
 TODO
-1. Add about page.
-2. Add tags
+- Add contact form
+- Add tags
+- Fix navigation
+
 
 
 RESPONSIVE
-
-PRE styling
-box-shadow: 0 0 0 3px #eee;
-margin: 10px 0;
-padding: 5px 10px;
-font-size: .9em;
-border: 1px solid #cccccc;
-border-radius: 4px;
 
 # NOTES
 post content does have some special styling for post type only.

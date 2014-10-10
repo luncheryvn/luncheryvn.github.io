@@ -29,7 +29,14 @@ authors:
     name: Nguyen Quoc Anh
     display_name: Anh DH Nguyen
     image_url: "/assets/anhnguyen.jpg"
+    title: Co Founder
   nxqd:
     name: Nguyen Xuan Quang Dung
     display_name: Dung Nguyen
     image_url: "/assets/nxqd.jpg"
+    title: Co Founder
+  khanh:
+    name: Ngô Hoàng Gia Khánh
+    display_name: Gia Khánh
+    image_url: ""
+    title: Co Founder

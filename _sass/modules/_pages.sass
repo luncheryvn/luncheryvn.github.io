@@ -5,3 +5,32 @@
   padding: 1em
   border-radius: 2px
   border: 1px solid #eaecee
+
+.page__header
+  text-align: center
+  margin: 10px 0 20px 0
+  h1
+    font-size: 2em
+
+.page__content
+  h2
+    font-size: 1.25em
+    font-weight: normal
+    margin-bottom: 7px
+
+// page--about
+.page--about
+  p
+    margin-bottom: 2em
+
+.page--about__team-members
+  +outer-container
+  margin-bottom: 100px
+
+.page--about__team-member
+  text-align: center
+  h6
+    font-weight: normal
+  +span-columns(4)
+  &:nth-child(3n)
+    margin-right: 0
